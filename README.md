@@ -1,6 +1,6 @@
 # Repo3
  Project
-This is the Repo for the Rahab Pages which of date is 2 Pages One of the Mian or Homepage , and The Edit Session Page.    
+This is the Repo for the Rahab Pages which of date is 3 Pages One of the Main or Homepage , and The Edit Session Page and the PatientRecordComponent Page     
 
     \\\\
    c  oo
