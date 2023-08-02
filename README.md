@@ -1,6 +1,6 @@
 # Repo3
 Work In  Progress Project
-This is the Repo for the Rahab Pages which of date is 3 Pages One of the "Home Page or HomeCompnent.js page , the NewSessionComponent page and currently working on the PatientRecordComponent Page     
+This is the Repo for the Rahab Pages which of date is 3 Pages One of the "Home Page" or HomeCompnent.js page , the NewSessionComponent page and currently working on the PatientRecordComponent Page     
 
     \\\\
    c  oo
